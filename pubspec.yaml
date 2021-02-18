@@ -15,7 +15,7 @@ dependencies:
   tflite_flutter:
     git:
       url: git://github.com/MATTYGILO/tflite_flutter_plugin
-  image: ^2.1.4
+  image: ^2.1.19
 
 dev_dependencies:
   flutter_test:
